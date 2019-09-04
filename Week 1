@@ -15,5 +15,20 @@ Stages of a typical SDLC
       - SRS is the reference for product architects to come out with the best architecture for the product to be developed
       - Usually more than one design approach for the product architecture is proposed and documented in a DDS (Design Document Specification)
   4. Building or Developing the Product
+      - Actual development starts and the product is built
+      - Programming code is generated as per DDS during this stage
   5. Testing the Product
+      - Subset of all the stages as in the modern SDLC models, the testing activities are mostly involved in all the stages of SDLC
+      - This stage refers to the testing only stage of the product where product defects are reported, tracked fixed and retested until the product reaches the quality standards defined in the SRS
   6. Deployment in the Market and Maintenance
+      - Once the product is tested and ready to be deployed it is released formally in the appropriate Market
+
+SDLC Models
+  - Various SDLC defined and designed which are followed during the software development process
+  - Models are referred to as "Software Development Process Models"
+
+Examples of SD process
+  - Waterfall Model
+  - Iterative Model
+  - Spiral Model
+  - Agile 
