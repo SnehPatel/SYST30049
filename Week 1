@@ -31,4 +31,32 @@ Examples of SD process
   - Waterfall Model
   - Iterative Model
   - Spiral Model
-  - Agile 
+  - Agile
+
+Iterative Refinement
+  - Create a prototype system early in the development process
+  - Review prototype with clients and test it with users, to improve the understanding of the requirements and clarify the design
+  - Refine the prototype in a series of iterations
+  - Mistakes in the requirements are the most expensive to correct
+  - Ex.
+      Converting a national archive from paper based to computer based
+
+Spiral Development
+  - Create a base system that has the overall structure of the final project with dummy stubs for missing components
+  - Create a comprehensive set of test cases for all completed components
+  - Use a succession of sprints to develop new or improved components, each with a set of test cases
+  - On a daily cycle, build the entire system from the source code library and run the complete set of test cases
+  - With this approach there is always a fully tested system, but the functionality is incomplete
+  - Ex.
+      Developing a new version of an operating system
+
+Agile Development
+  - Project is divided into a large number of small tasks, known as sprints
+  - A sprint is a set period of time during which a team completes part of a software project
+  - For each sprint a team works through a full SDLC including planning, requirement analysis, design, coding, testing, and acceptance testing, and release
+  - Each sprint is completed in a fixed time period (e.g. 4 weeks)
+  - The size of a sprint is based on team size (e.g. 5-10 people)
+  - After each sprint the code maybe:
+    - released (original agile method)
+    - combined with code from other sprints for subsequent release
+    - incorporated into a larger code base (spiral development)
