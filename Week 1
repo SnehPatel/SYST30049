@@ -1,8 +1,8 @@
-Week 1
-SDLC - Software Development Life Cycle
+Week 1 - Sept 4, 2019
 
-- A detailed plan describing how to develop, maintain, replace and alter or enhance specific software
-- Defines a method for improving the quality of software and the overall development process
+SDLC - Software Development Life Cycle
+  - A detailed plan describing how to develop, maintain, replace and alter or enhance specific software
+  - Defines a method for improving the quality of software and the overall development process
 
 Stages of a typical SDLC
   1. Planning and Requirement Analysis
@@ -60,3 +60,18 @@ Agile Development
     - released (original agile method)
     - combined with code from other sprints for subsequent release
     - incorporated into a larger code base (spiral development)
+
+Software Design
+  - Requirements specification (functional and non-functional requirements) are about WHAT the system will do
+  - Design is about HOW the system will perform its functions
+
+Architectural Design
+  - Overall structure: main components and their connections
+
+Detailed Designing
+  - Inner structure of main components
+  - Take programming language into account
+
+Software Architecture
+  - The design process for identifying the sub-systems making up a system and the framework for sub-system control and communication is architectural design
+  - The output of this design process is a description of the software architecture
