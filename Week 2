@@ -1,3 +1,29 @@
 Week 2
 
-tested
+Wicked problems
+  - Not understood until after the creation of a solution
+    - It is defined and solved at the same time
+  - Have no stopping rule
+    - There is no final, correct solution
+  - Solutions to wicked problems are not right or wrong
+    - Solutions are either good-enough or not-good-enough
+  - Every wicked problem us essentially novel and unique
+  - Wicked problems have no given alternative solutions
+
+Tame Problems
+  - Have well-defined and stable problem statements
+  - Definite stopping points when a solution is reached
+  - Solution to a tame problem can be objectively evaluated as right or wrong
+  - Belongs to a class of similar problems which are solved in similar ways
+  - Solutions which can be easily tried and abandoned
+  - Comes with a limited set of alternative solutions
+
+Solving Problems
+  Tame
+    - Linear problem solving
+    - Start with a problem and progressively build a solution
+    - Activities are performed in order
+  Wicked
+    - Opportunistic/opportunity driven problem solving
+    - Activities are performed iteratively evolving the artifacts they produce
+    
