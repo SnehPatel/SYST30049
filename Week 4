@@ -1,0 +1,29 @@
+Week 4
+
+Domain modeling
+  - The domain model defines the structure, elements and rules of a common, ubiquitous language
+  - An ubiquitous language is the all-encompassing language of the project
+    - It defines the common terminology used in requirements, design and implementation
+    - It is shared by developers, domain experts, all technology and business shareholders
+  - "The model is not the diagram. The diagram's purpose is to help communicate and explain the model"
+
+Creating an ubiquitous language
+  - Use nouns(concepts) and verbs(actions) from the business domain defined clearly
+  - Use technical terms that define system responses and behavior important to domain experts
+    - notifications, requests, persistence
+  - Define each term in a project glossary that permeates all software models and their implementation
+    - Serves as a dictionary for the ubiquitous language
+
+Domain Model
+  - The model and its implementation shape each other and are developed side by side
+  - AKA analysis model, represents an OO analysis of the requirements
+  - Not a data model
+  - Visualized using class diagrams
+    - Conceptual classes representation domain objects, attributes, and they do not have methods
+  - Association relationships between conceptual classes, usually named to reflect domain terminology
+
+Conceptual Classes
+  - Linguistic analysis or natural language modeling
+    - Finding nouns in the software requirements
+    - Not all nouns are part of the domain
+    - Some nouns represent the same thing
