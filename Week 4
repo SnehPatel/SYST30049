@@ -47,4 +47,17 @@ Relationships Between Concepts
   - Multiplicity = Cardinality + Participation
 
 Attributes
-  - 
+  - Are shown in the compartment below the class name
+  - Have several characteristics which can be added to the model iteratively as detailed as determined
+    - Name
+    - Visibility
+    - Type
+    - Default/Initial Value
+    - Property Modifier (read-only)
+  - Derived attribute names are prefixed with "/" showing that they can be calculated based on other attributes or relationships
+    - /total (calculating total of sale)
+
+Domain Model vs. Domain Layer
+  - The layer is the software implementation of the model
+  - The layer is a package in the model used in the layered architectures
+    - Contains the implementation/software classes that represent the domain concepts defined by the domain model  
