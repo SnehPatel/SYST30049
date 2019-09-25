@@ -27,3 +27,24 @@ Conceptual Classes
     - Finding nouns in the software requirements
     - Not all nouns are part of the domain
     - Some nouns represent the same thing
+
+Domain Modeling Considerations
+  - Start simple, build the domain model iteratively
+    - Start with simpler models and expand as needed
+  - If a concept can be represented as a simple type(number, string, data) use an attribute instead of a separate concepts
+
+Item-Descriptor Patten
+  - A concept may have different meanings depending in which context it is used in
+    - "Item" for an inventory system or a point of sale
+    - "Item" for a e-commerce web site
+    - Ex. serial number is a describing attribute of an item, so it should be in a different class
+
+Relationships Between Concepts
+  - Conceptual classes are visualized using associations and generalizations (inheritance)
+  - The precise semantics of the association is identified by the name of the association
+  - Cardinality : denotes the max number of possible relationship occurrences in which a certain entity can participate (in simple terms: at most)
+  - Participation : denotes if all or only some entity occurrences participate in a relationship (simple terms: at least)
+  - Multiplicity = Cardinality + Participation
+
+Attributes
+  - 
